@@ -2,7 +2,7 @@
 
 This is a Super Calculator
 
-It uses:
+It has the following features:
 * Addition
 * Subtraction
 * Multiplication
